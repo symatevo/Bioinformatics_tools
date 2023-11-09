@@ -12,7 +12,7 @@ Before we explore the tools, let's delve in the actual alignment process which w
 Sequence alignment is a fundamental process in many bioinformatics applications, such as phylogenetic analysis, protein structure prediction, gene annotation, and more. It involves arranging sequences of DNA, RNA, or protein to identify regions of similarity, which can be due to functional, structural, or evolutionary relationships.
 
 ### Types of Sequence Alignment
-
+ ```
 
        Alignment
           |
@@ -24,7 +24,7 @@ Pairwise       Multiple
 Alignment      Sequence
               Alignment
 
-
+```
 - **Pairwise Alignment**
   - Description: Aligning two sequences to find the best matching regions between them.
   - Example: Aligning two DNA sequences.
