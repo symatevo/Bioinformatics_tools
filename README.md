@@ -1,6 +1,3 @@
-# Bioinformatics_tools
-
-
 # Bioinformatics Analysis Guide
 
 Bioinformatics is a fascinating field that combines biology, chemistry, medicine, and computer science. It may seem complex, but the beauty lies in its multidisciplinary nature. In this guide, we'll walk through essential bioinformatics tools step by step, using plain language to ensure you can understand and use them effectively.
@@ -29,7 +26,7 @@ Alignment      Sequence
   - Description: Aligning two sequences to find the best matching regions between them.
   - Example: Aligning two DNA sequences.
 
-
+```
         Alignment
           |
           |
@@ -38,6 +35,8 @@ Alignment      Sequence
 |               |
 Global        Local
 Alignment     Alignment
+
+```
 
 
 - **Global Alignment**
@@ -50,13 +49,13 @@ Alignment     Alignment
 
 ### Alignment with or without a Reference Sequence
 
-
+```
 With a Reference     Without a Reference
    Sequence              Sequence
        |                     |
        |                     |
 
-
+```
 - **With a Reference Sequence**
   - Description: Aligning sequences to a well-studied reference genome to identify variants or similarities.
   - Example: Aligning sequencing data from a patient's DNA to a reference human genome.
