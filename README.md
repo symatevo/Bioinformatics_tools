@@ -22,9 +22,12 @@ Alignment      Sequence
               Alignment
 
 ```
+
+```
 - **Pairwise Alignment**
   - Description: Aligning two sequences to find the best matching regions between them.
   - Example: Aligning two DNA sequences.
+```
 
 ```
         Alignment
@@ -37,7 +40,7 @@ Global        Local
 Alignment     Alignment
 
 ```
-
+```
 
 - **Global Alignment**
   - Description: Aligning the entire length of sequences to maximize overall similarity.
@@ -46,6 +49,7 @@ Alignment     Alignment
 - **Local Alignment**
   - Description: Identifying regions with the highest density of matches in sequences.
   - Example: Finding functional motifs within a protein sequence.
+```
 
 ### Alignment with or without a Reference Sequence
 
@@ -56,6 +60,7 @@ With a Reference     Without a Reference
        |                     |
 
 ```
+```
 - **With a Reference Sequence**
   - Description: Aligning sequences to a well-studied reference genome to identify variants or similarities.
   - Example: Aligning sequencing data from a patient's DNA to a reference human genome.
@@ -63,6 +68,7 @@ With a Reference     Without a Reference
 - **Without a Reference Sequence**
   - Description: Aligning sequences to each other without a reference, often used for less well-studied organisms.
   - Example: Aligning DNA sequences from a new species to construct a consensus sequence.
+```
 
 
 ``
